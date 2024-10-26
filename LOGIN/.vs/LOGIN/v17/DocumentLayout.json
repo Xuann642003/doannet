@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c_thang\\DOAN_NET\\LOGIN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACB5DE0-395D-49D7-AE56-79D36BC05A1E}|LOGIN\\LOGIN.csproj|d:\\c_thang\\doan_net\\login\\login\\thungan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8ACB5DE0-395D-49D7-AE56-79D36BC05A1E}|LOGIN\\LOGIN.csproj|solutionrelative:login\\thungan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACB5DE0-395D-49D7-AE56-79D36BC05A1E}|LOGIN\\LOGIN.csproj|d:\\c_thang\\doan_net\\login\\login\\thungan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACB5DE0-395D-49D7-AE56-79D36BC05A1E}|LOGIN\\LOGIN.csproj|solutionrelative:login\\thungan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACB5DE0-395D-49D7-AE56-79D36BC05A1E}|LOGIN\\LOGIN.csproj|d:\\c_thang\\doan_net\\login\\login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACB5DE0-395D-49D7-AE56-79D36BC05A1E}|LOGIN\\LOGIN.csproj|solutionrelative:login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACB5DE0-395D-49D7-AE56-79D36BC05A1E}|LOGIN\\LOGIN.csproj|D:\\c_thang\\DOAN_NET\\LOGIN\\login\\tatca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8ACB5DE0-395D-49D7-AE56-79D36BC05A1E}|LOGIN\\LOGIN.csproj|solutionrelative:login\\tatca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACB5DE0-395D-49D7-AE56-79D36BC05A1E}|LOGIN\\LOGIN.csproj|d:\\c_thang\\doan_net\\login\\login\\tatca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACB5DE0-395D-49D7-AE56-79D36BC05A1E}|LOGIN\\LOGIN.csproj|solutionrelative:login\\tatca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tatca.cs",
+              "DocumentMoniker": "D:\\c_thang\\DOAN_NET\\LOGIN\\LOGIN\\tatca.cs",
+              "RelativeDocumentMoniker": "LOGIN\\tatca.cs",
+              "ToolTip": "D:\\c_thang\\DOAN_NET\\LOGIN\\LOGIN\\tatca.cs",
+              "RelativeToolTip": "LOGIN\\tatca.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:22:09.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Thungan.cs",
+              "DocumentMoniker": "D:\\c_thang\\DOAN_NET\\LOGIN\\LOGIN\\Thungan.cs",
+              "RelativeDocumentMoniker": "LOGIN\\Thungan.cs",
+              "ToolTip": "D:\\c_thang\\DOAN_NET\\LOGIN\\LOGIN\\Thungan.cs",
+              "RelativeToolTip": "LOGIN\\Thungan.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAuwHsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:01:18.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tatca.cs [Design]",
+              "DocumentMoniker": "D:\\c_thang\\DOAN_NET\\LOGIN\\LOGIN\\tatca.cs",
+              "RelativeDocumentMoniker": "LOGIN\\tatca.cs",
+              "ToolTip": "D:\\c_thang\\DOAN_NET\\LOGIN\\LOGIN\\tatca.cs [Design]",
+              "RelativeToolTip": "LOGIN\\tatca.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T10:57:21.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Thungan.cs [Design]",
+              "DocumentMoniker": "D:\\c_thang\\DOAN_NET\\LOGIN\\LOGIN\\Thungan.cs",
+              "RelativeDocumentMoniker": "LOGIN\\Thungan.cs",
+              "ToolTip": "D:\\c_thang\\DOAN_NET\\LOGIN\\LOGIN\\Thungan.cs [Design]",
+              "RelativeToolTip": "LOGIN\\Thungan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T10:53:21.339Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c_thang\\DOAN_NET\\LOGIN\\LOGIN\\Program.cs",
+              "RelativeDocumentMoniker": "LOGIN\\Program.cs",
+              "ToolTip": "D:\\c_thang\\DOAN_NET\\LOGIN\\LOGIN\\Program.cs",
+              "RelativeToolTip": "LOGIN\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T00:32:58.855Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 308,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
